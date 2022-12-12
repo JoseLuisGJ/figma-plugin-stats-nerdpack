@@ -1,0 +1,21 @@
+{
+    "schemaType": "VISUALIZATION",
+    "id": "figma-plugin-stats",
+    "displayName": "FigmaPluginStats",
+    "description": "",
+    "configuration": [
+        
+        {
+            "name": "pluginId",
+            "title": "Figma plugin Id",
+            "description": "The plugin ID to publish updates to",
+            "type": "number" 
+        },
+        {
+            "name": "tagSearch",
+            "title": "Tag",
+            "description": "Tag search to hardcode plugin search",
+            "type": "string"
+        }
+    ]
+}

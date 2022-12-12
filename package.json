@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "figma-plugin-stats-nerdpack",
+    "version": "0.3.5",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "1e452557-0295-439f-93d2-485e8716b3c6"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "recharts": "^2.1.16"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
